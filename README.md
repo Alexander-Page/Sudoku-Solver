@@ -11,4 +11,7 @@ Image of GUI after just starting up:
 ![alt text](https://github.com/Alexander-Page/Sudoku-Solver/blob/master/Sudoku_initial.jpg)
 
 Image after example puzzle is loaded:
-![alt text](https://github.com/Alexander-Page/Sudoku-Solver/blob/master/Sudoku_example.jpg)
+![after example puzzle is loaded](https://github.com/Alexander-Page/Sudoku-Solver/blob/master/Sudoku_Example.jpg)
+
+Image after example puzzle is solved:
+![After Example is solved](https://github.com/Alexander-Page/Sudoku-Solver/blob/master/Sudoku_Solved.jpg)
